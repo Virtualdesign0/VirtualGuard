@@ -1,0 +1,12 @@
+{
+  "name": "VirtualGuard",
+  "tree": {
+    "$className": "Model",
+    "Main": {
+      "$path": "src/Main.plugin.luau"
+    },
+    "VirtualGuard": {
+      "$path": "src/VirtualGuard"
+    }
+  }
+}
