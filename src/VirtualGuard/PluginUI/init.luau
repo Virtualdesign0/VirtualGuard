@@ -161,7 +161,7 @@ local function bootVirtualGuardUi()
 	make("TextLabel", {
 		BackgroundTransparency = 1,
 		Font = ConfigModule.FONT.Body,
-		Text = "Static Code Analyzer",
+		Text = "Code Review Helper",
 		TextColor3 = ConfigModule.THEME.muted,
 		TextSize = 12,
 		TextXAlignment = Enum.TextXAlignment.Left,
